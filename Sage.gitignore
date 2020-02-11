@@ -1,0 +1,11 @@
+#Auto-generated python files
+*.py
+
+#log files
+*.log
+
+#bash files
+*.sh
+
+#files for testing on Jupyter
+*.ipynb
